@@ -1,0 +1,4 @@
+- 👋 Hi, I'm saqib javed 
+- 👀 I’m interested in web programming and developement in  laravel  and php
+- 🌱 I’m currently learning and working on laravel
+- 📫 If you want to reach me just type http://saqibjaved.ml/ and you will find me.
